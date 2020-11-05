@@ -66,4 +66,6 @@ def my_org_psych_headline(num_words):
 
 #------------------ RUN THE GENERATOR ----------------
 
+# Take user inputs from the console
+
 my_org_psych_headline(num_words = int(input("Enter either 2 or 3 words to generate: ")))
